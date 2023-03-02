@@ -1,5 +1,5 @@
 import React from "react";
-import Button from "app/components/Button/page";
+import Button from "components/Button/page";
 
 export default function Contact() {
   return (
